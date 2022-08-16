@@ -1,0 +1,1 @@
+{"version":3,"sources":["style.css"],"names":[],"mappings":"AAAA,8DACI,kBAEJ,CACA,IACI,kBACJ","file":"style.798dbd25.css","sourceRoot":"..\\src","sourcesContent":[".firstfieldset,.secondfieldset,.thirdfieldset,.fourthfieldset{\n    margin-bottom: 20px;\n\n}\ndiv{\n    margin-bottom: 10px;\n}\n"]}
